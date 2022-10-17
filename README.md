@@ -12,7 +12,7 @@ Run the following commands:
 
 # npm install
 
-# npm run
+# npm start
 
 If asked whether to occupy a diffrent port, answer yes (Y)
 
